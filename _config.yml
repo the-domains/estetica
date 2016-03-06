@@ -1,0 +1,28 @@
+name: ESTETICA
+favicon: null
+layout_spectrum: 0.2742091016843915
+typography_spectrum: 0.5421172038186342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1302933506667614
+  lightness: 0.7492086330894381
+  saturation: 0.287482539890334
+  rhythmicContrast: 0.25027644145302474
+purpose: []
